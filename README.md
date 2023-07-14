@@ -4,7 +4,7 @@ This is an autonomous vehicle that operates using PID control feedback from an u
 This is the second project (developed and constructed by Ssebastían Navia, Rodrigo Sepulveda, Benjamín Rojas, Fabián Zamorano) of the "ME4250 Mechatronics" course, taught by Carolina Silva and Leslie Cardenas at the University of Chile. 
 
 <p align="center">
-<img src=pics/mainpic.jpeg alt="Texto alternativo" width="25%" height="25%">
+<img src=pics/mainpic.jpeg alt="Texto alternativo" width="50%" height="50%">
 </p>
 
 ### Resumen
@@ -39,3 +39,28 @@ En el código subido a este repositorio, se tiene en cuenta la configuración pa
 <p align="center">
 <img src=pics/main_lcd.png alt="Texto alternativo" width="60%" height="60%">
 </p>
+
+### Ensambjale.
+
+El ensamblaje es bastante de ensayo y error puesto a que este vehiculo es un prototipo, esto significa que se debe intentar acomodar todos los compoentes de la forma más compacta posible.A continuación dejamos unas imagenes ilustrativas para tener una idea de cómo fue el proceso de cosntrucción.
+
+<p align="center">
+<img src=pics/v1.jpeg alt="Texto alternativo" width="60%" height="60%">
+</p>
+
+<p align="center">
+<img src=pics/v2.jpeg alt="Texto alternativo" width="60%" height="60%">
+</p>
+
+<p align="center">
+<img src=pics/v3.jpeg alt="Texto alternativo" width="60%" height="60%">
+</p>
+
+<p align="center">
+<img src=pics/v4.jpeg alt="Texto alternativo" width="60%" height="60%">
+</p>
+
+<p align="center">
+<img src=pics/v5.jpeg alt="Texto alternativo" width="60%" height="60%">
+</p>
+
