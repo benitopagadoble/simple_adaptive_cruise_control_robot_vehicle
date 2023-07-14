@@ -15,6 +15,7 @@ Este vehiculo pretende emular un control crusero adaptaivo mediante los datos ob
 
 Materiales chasis:
 - Piezas impresas en 3D (3D_printed_parts folder).
+- par de pernos M3 x 20 mm.
 
 Componentes:
 - Sensor de ultrasonido.
