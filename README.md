@@ -33,9 +33,9 @@ A continuación se muestra el diagrama de conexiones, se debe tener en cuenta qu
 En el código subido a este repositorio, se tiene en cuenta la configuración para él módulo LCD de 4 pines. no se recomienta usar la pantalla sin módulo, puesto que requiere muchos pines dijitales y el proyecto ya contempla bastantes.
 
 <p align="center">
-<img src=pics/main_circuit.png alt="Texto alternativo" width="25%" height="25%">
+<img src=pics/main_circuit.png alt="Texto alternativo" width="60%" height="60%">
 </p>
 
 <p align="center">
-<img src=pics/main_lcd.png alt="Texto alternativo" width="25%" height="25%">
+<img src=pics/main_lcd.png alt="Texto alternativo" width="60%" height="60%">
 </p>
