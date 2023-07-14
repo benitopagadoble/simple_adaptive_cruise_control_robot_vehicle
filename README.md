@@ -37,5 +37,5 @@ En el código subido a este repositorio, se tiene en cuenta la configuración pa
 </p>
 
 <p align="center">
-<img src=pics/main_lcd.jpeg alt="Texto alternativo" width="25%" height="25%">
+<img src=pics/main_lcd.png alt="Texto alternativo" width="25%" height="25%">
 </p>
